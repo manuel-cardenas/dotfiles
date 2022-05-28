@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mcarden755@gmail.com
+	name = Manuel Cardenas
